@@ -6,10 +6,23 @@ h1 {
     text-align: center;
 }
 
-#mtrainier {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:50%;
-    border-color: lime;
+h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#contactme {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    word-spacing: 15px;
+}
+
+#contactme a:visited {
+    color:cornsilk;
+}
+
+#contactme a:link {
+    color:blue;
 }
